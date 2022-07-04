@@ -1,0 +1,6 @@
+username = admin
+password = admin
+
+databasenya di import lagi!!!
+
+yang lama dihapus terus create database db_perpus kemudian import db_perpus.sql ke database yang telah dibuat tadi
